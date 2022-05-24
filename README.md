@@ -2,6 +2,8 @@
 
 Segmenteringsmodellen er udviklet i Python. Modellen kan hentes direkte fra dette repository. Herunder er et Python eksempel, hvor modellen anvendt på et mindre datasæt.
 
+Jeg er for sej. 
+
 ## Spørgsmål
 Segmenteringsmodellen er baseret på disse ti spørgsmål:
 
